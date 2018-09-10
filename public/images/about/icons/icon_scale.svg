@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="icon_scale" viewBox="0 0 58 41">
+    <defs>
+        <style>
+            .cls-1{fill:#3a5695}.cls-2{fill:#c01517}
+        </style>
+    </defs>
+    <path id="Path_527" d="M56.81 41a.911.911 0 0 1-.967-.962V1.925h-5.51v38.113a.967.967 0 0 1-1.933 0V0h9.377v40.038a.967.967 0 0 1-.967.962z" class="cls-1" data-name="Path 527" transform="translate(-1.613)"/>
+    <path id="Path_528" d="M41.31 41.364a.911.911 0 0 1-.967-.962V11.625h-5.51V40.4a.967.967 0 0 1-1.933 0V9.7h9.377v30.7a.911.911 0 0 1-.967.964z" class="cls-1" data-name="Path 528" transform="translate(-1.097 -.364)"/>
+    <path id="Path_529" d="M25.81 41.725a.911.911 0 0 1-.967-.962V21.225h-5.51v19.537a.967.967 0 0 1-1.933 0V19.3h9.377v21.462a.911.911 0 0 1-.967.963z" class="cls-1" data-name="Path 529" transform="translate(-.58 -.725)"/>
+    <path id="Path_530" d="M10.407 42.089a.911.911 0 0 1-.967-.962v-10.2H3.833v10.2a.911.911 0 0 1-.967.962.911.911 0 0 1-.967-.962V29h9.377v12.127a.839.839 0 0 1-.869.962z" class="cls-1" data-name="Path 530" transform="translate(-.063 -1.089)"/>
+    <path id="Path_531" d="M57.033 42.525H.967a.962.962 0 1 1 0-1.925h56.066a.962.962 0 1 1 0 1.925z" class="cls-2" data-name="Path 531" transform="translate(0 -1.525)"/>
+</svg>

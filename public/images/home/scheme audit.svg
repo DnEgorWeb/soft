@@ -1,0 +1,420 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260.25 260.516">
+    <defs>
+        <style>
+            .cls-1,.cls-10,.cls-11,.cls-12,.cls-14,.cls-15,.cls-18,.cls-2,.cls-3,.cls-4,.cls-5,.cls-6,.cls-7,.cls-8,.cls-9{fill:none}.cls-1,.cls-15,.cls-18,.cls-7{stroke:#b2b2b2}.cls-1,.cls-10,.cls-11,.cls-14,.cls-15,.cls-2,.cls-3,.cls-4,.cls-5,.cls-6,.cls-7,.cls-8,.cls-9{stroke-miterlimit:10}.cls-11,.cls-14,.cls-2,.cls-5{stroke:#be1622}.cls-12,.cls-14,.cls-15,.cls-18,.cls-2,.cls-3,.cls-4,.cls-6{stroke-width:.25px}.cls-3,.cls-9{stroke:#009fe3}.cls-10,.cls-12,.cls-4,.cls-6,.cls-8{stroke:#3a5695}.cls-4{stroke-dasharray:3.002 3.002}.cls-5,.cls-7,.cls-8{stroke-width:.5px}.cls-7{stroke-dasharray:7.938 4.962}.cls-8{stroke-dasharray:2.992 2.992}.cls-13{fill:#be1622}.cls-14{stroke-dasharray:3 3}.cls-16{fill:#3a5695}.cls-17{fill:#c6c6c6}
+        </style>
+    </defs>
+    <g id="scheme_audit" data-name="scheme audit" transform="translate(-1354.875 -1431.875)">
+        <circle id="Ellipse_45" cx="23.311" cy="23.311" r="23.311" class="cls-1" data-name="Ellipse 45" transform="translate(1524.916 1538.724)"/>
+        <circle id="Ellipse_46" cx="24.856" cy="24.856" r="24.856" class="cls-2" data-name="Ellipse 46" transform="translate(1355 1642.429)"/>
+        <circle id="Ellipse_47" cx="10.392" cy="10.392" r="10.392" class="cls-2" data-name="Ellipse 47" transform="translate(1594.147 1432.07)"/>
+        <g id="Group_40" data-name="Group 40" transform="translate(1385.824 1526.297)">
+            <path id="Line_246" d="M0 0v14.394" class="cls-2" data-name="Line 246" transform="translate(35.598)"/>
+            <path id="Line_247" d="M0 0v14.394" class="cls-2" data-name="Line 247" transform="translate(35.598 56.803)"/>
+            <path id="Line_248" d="M0 10.181L10.181 0" class="cls-2" data-name="Line 248" transform="translate(10.462 50.624)"/>
+            <path id="Line_249" d="M0 10.251L10.181 0" class="cls-2" data-name="Line 249" transform="translate(50.624 10.392)"/>
+            <path id="Line_250" d="M0 0l10.181 10.251" class="cls-2" data-name="Line 250" transform="translate(10.462 10.392)"/>
+            <path id="Line_251" d="M0 0l10.181 10.181" class="cls-2" data-name="Line 251" transform="translate(50.624 50.624)"/>
+            <path id="Line_252" d="M0 0v14.394" class="cls-2" data-name="Line 252" transform="translate(35.598)"/>
+            <path id="Line_253" d="M0 0v14.394" class="cls-2" data-name="Line 253" transform="translate(35.598 56.803)"/>
+            <path id="Line_254" d="M0 10.181L10.181 0" class="cls-2" data-name="Line 254" transform="translate(10.462 50.624)"/>
+            <path id="Line_255" d="M0 10.251L10.181 0" class="cls-2" data-name="Line 255" transform="translate(50.624 10.392)"/>
+            <path id="Line_256" d="M0 0l10.181 10.251" class="cls-2" data-name="Line 256" transform="translate(10.462 10.392)"/>
+            <path id="Line_257" d="M0 0l10.181 10.181" class="cls-2" data-name="Line 257" transform="translate(50.624 50.624)"/>
+            <path id="Line_258" d="M0 0l5.406 13.341" class="cls-2" data-name="Line 258" transform="translate(22.258 2.598)"/>
+            <path id="Line_259" d="M0 0l5.336 13.341" class="cls-2" data-name="Line 259" transform="translate(43.602 55.258)"/>
+            <path id="Line_260" d="M0 5.406L13.341 0" class="cls-2" data-name="Line 260" transform="translate(2.598 43.532)"/>
+            <path id="Line_261" d="M0 5.406L13.411 0" class="cls-2" data-name="Line 261" transform="translate(55.258 22.258)"/>
+            <path id="Line_262" d="M0 13.27L5.617 0" class="cls-2" data-name="Line 262" transform="translate(21.696 55.117)"/>
+            <path id="Line_263" d="M0 13.27L5.687 0" class="cls-2" data-name="Line 263" transform="translate(43.883 2.809)"/>
+            <path id="Line_264" d="M0 0l13.27 5.617" class="cls-2" data-name="Line 264" transform="translate(2.809 21.696)"/>
+            <path id="Line_265" d="M0 0l13.27 5.617" class="cls-2" data-name="Line 265" transform="translate(55.117 43.883)"/>
+            <path id="Line_266" d="M0 0l2.809 14.183" class="cls-2" data-name="Line 266" transform="translate(28.787 .632)"/>
+            <path id="Line_267" d="M0 0l2.738 14.113" class="cls-2" data-name="Line 267" transform="translate(39.671 56.452)"/>
+            <path id="Line_268" d="M0 2.738L14.183 0" class="cls-2" data-name="Line 268" transform="translate(.632 39.671)"/>
+            <path id="Line_269" d="M0 2.738L14.113 0" class="cls-2" data-name="Line 269" transform="translate(56.452 28.787)"/>
+            <path id="Line_270" d="M0 11.936L8.004 0" class="cls-2" data-name="Line 270" transform="translate(15.728 53.222)"/>
+            <path id="Line_271" d="M0 11.936L8.075 0" class="cls-2" data-name="Line 271" transform="translate(47.464 6.109)"/>
+            <path id="Line_272" d="M0 0l11.936 8.004" class="cls-2" data-name="Line 272" transform="translate(6.109 15.728)"/>
+            <path id="Line_273" d="M0 0l11.936 8.075" class="cls-2" data-name="Line 273" transform="translate(53.222 47.464)"/>
+            <path id="Line_274" d="M0 0l2.809 14.183" class="cls-2" data-name="Line 274" transform="translate(28.787 .632)"/>
+            <path id="Line_275" d="M0 0l2.738 14.113" class="cls-2" data-name="Line 275" transform="translate(39.671 56.452)"/>
+            <path id="Line_276" d="M0 2.738L14.183 0" class="cls-2" data-name="Line 276" transform="translate(.632 39.671)"/>
+            <path id="Line_277" d="M0 2.738L14.113 0" class="cls-2" data-name="Line 277" transform="translate(56.452 28.787)"/>
+            <path id="Line_278" d="M0 11.936L8.004 0" class="cls-2" data-name="Line 278" transform="translate(15.728 53.222)"/>
+            <path id="Line_279" d="M0 11.936L8.075 0" class="cls-2" data-name="Line 279" transform="translate(47.464 6.109)"/>
+            <path id="Line_280" d="M0 0l11.936 8.004" class="cls-2" data-name="Line 280" transform="translate(6.109 15.728)"/>
+            <path id="Line_281" d="M0 0l11.936 8.075" class="cls-2" data-name="Line 281" transform="translate(53.222 47.464)"/>
+            <path id="Line_282" d="M0 0l7.864 12.077" class="cls-2" data-name="Line 282" transform="translate(16.219 5.758)"/>
+            <path id="Line_283" d="M0 0l7.864 12.147" class="cls-2" data-name="Line 283" transform="translate(47.183 53.362)"/>
+            <path id="Line_284" d="M0 7.864L12.077 0" class="cls-2" data-name="Line 284" transform="translate(5.757 47.183)"/>
+            <path id="Line_285" d="M0 7.864L12.077 0" class="cls-2" data-name="Line 285" transform="translate(53.432 16.219)"/>
+            <path id="Line_286" d="M0 14.043L3.019 0" class="cls-2" data-name="Line 286" transform="translate(28.226 56.381)"/>
+            <path id="Line_287" d="M0 14.113L3.019 0" class="cls-2" data-name="Line 287" transform="translate(40.022 .772)"/>
+            <path id="Line_288" d="M0 0l14.113 2.949" class="cls-2" data-name="Line 288" transform="translate(.772 28.226)"/>
+            <path id="Line_289" d="M0 0l14.113 3.019" class="cls-2" data-name="Line 289" transform="translate(56.381 40.022)"/>
+            <path id="Line_290" d="M0 0l1.334 14.324" class="cls-2" data-name="Line 290" transform="translate(32.298 .14)"/>
+            <path id="Line_291" d="M0 0l1.404 14.324" class="cls-2" data-name="Line 291" transform="translate(37.564 56.732)"/>
+            <path id="Line_292" d="M0 1.334L14.394 0" class="cls-2" data-name="Line 292" transform="translate(.14 37.564)"/>
+            <path id="Line_293" d="M0 1.334L14.324 0" class="cls-2" data-name="Line 293" transform="translate(56.732 32.298)"/>
+            <path id="Line_294" d="M0 11.094L9.198 0" class="cls-2" data-name="Line 294" transform="translate(12.919 51.958)"/>
+            <path id="Line_295" d="M0 11.094L9.198 0" class="cls-2" data-name="Line 295" transform="translate(49.149 8.215)"/>
+            <path id="Line_296" d="M0 0l11.094 9.198" class="cls-2" data-name="Line 296" transform="translate(8.215 12.849)"/>
+            <path id="Line_297" d="M0 0l11.094 9.198" class="cls-2" data-name="Line 297" transform="translate(51.958 49.149)"/>
+            <path id="Line_298" d="M0 0l1.334 14.324" class="cls-2" data-name="Line 298" transform="translate(32.298 .14)"/>
+            <path id="Line_299" d="M0 0l1.404 14.324" class="cls-2" data-name="Line 299" transform="translate(37.564 56.732)"/>
+            <path id="Line_300" d="M0 1.334L14.394 0" class="cls-2" data-name="Line 300" transform="translate(.14 37.564)"/>
+            <path id="Line_301" d="M0 1.334L14.324 0" class="cls-2" data-name="Line 301" transform="translate(56.732 32.298)"/>
+            <path id="Line_302" d="M0 11.094L9.198 0" class="cls-2" data-name="Line 302" transform="translate(12.919 51.958)"/>
+            <path id="Line_303" d="M0 11.094L9.198 0" class="cls-2" data-name="Line 303" transform="translate(49.149 8.215)"/>
+            <path id="Line_304" d="M0 0l11.094 9.198" class="cls-2" data-name="Line 304" transform="translate(8.215 12.849)"/>
+            <path id="Line_305" d="M0 0l11.094 9.198" class="cls-2" data-name="Line 305" transform="translate(51.958 49.149)"/>
+            <path id="Line_306" d="M0 0l6.67 12.779" class="cls-2" data-name="Line 306" transform="translate(19.238 4.002)"/>
+            <path id="Line_307" d="M0 0l6.6 12.779" class="cls-2" data-name="Line 307" transform="translate(45.358 54.486)"/>
+            <path id="Line_308" d="M0 6.6L12.779 0" class="cls-2" data-name="Line 308" transform="translate(4.002 45.358)"/>
+            <path id="Line_309" d="M0 6.6L12.779 0" class="cls-2" data-name="Line 309" transform="translate(54.486 19.238)"/>
+            <path id="Line_310" d="M0 13.762L4.423 0" class="cls-2" data-name="Line 310" transform="translate(24.785 55.82)"/>
+            <path id="Line_311" d="M0 13.692L4.353 0" class="cls-2" data-name="Line 311" transform="translate(42.058 1.685)"/>
+            <path id="Line_312" d="M0 0l13.692 4.423" class="cls-2" data-name="Line 312" transform="translate(1.685 24.785)"/>
+            <path id="Line_313" d="M0 0l13.762 4.353" class="cls-2" data-name="Line 313" transform="translate(55.82 42.058)"/>
+            <path id="Line_314" d="M0 0l4.002 13.832" class="cls-2" data-name="Line 314" transform="translate(25.628 1.404)"/>
+            <path id="Line_315" d="M0 0l4.072 13.832" class="cls-2" data-name="Line 315" transform="translate(41.566 55.96)"/>
+            <path id="Line_316" d="M0 4.072L13.762 0" class="cls-2" data-name="Line 316" transform="translate(1.474 41.566)"/>
+            <path id="Line_317" d="M0 4.072L13.832 0" class="cls-2" data-name="Line 317" transform="translate(55.96 25.558)"/>
+            <path id="Line_318" d="M0 12.638L6.951 0" class="cls-2" data-name="Line 318" transform="translate(18.536 54.205)"/>
+            <path id="Line_319" d="M0 12.638L6.951 0" class="cls-2" data-name="Line 319" transform="translate(45.779 4.353)"/>
+            <path id="Line_320" d="M0 0l12.638 6.881" class="cls-2" data-name="Line 320" transform="translate(4.353 18.536)"/>
+            <path id="Line_321" d="M0 0l12.638 6.881" class="cls-2" data-name="Line 321" transform="translate(54.205 45.779)"/>
+            <path id="Line_322" d="M0 0l4.002 13.832" class="cls-2" data-name="Line 322" transform="translate(25.628 1.404)"/>
+            <path id="Line_323" d="M0 0l4.072 13.832" class="cls-2" data-name="Line 323" transform="translate(41.566 55.96)"/>
+            <path id="Line_324" d="M0 4.072L13.762 0" class="cls-2" data-name="Line 324" transform="translate(1.474 41.566)"/>
+            <path id="Line_325" d="M0 4.072L13.832 0" class="cls-2" data-name="Line 325" transform="translate(55.96 25.558)"/>
+            <path id="Line_326" d="M0 12.638L6.951 0" class="cls-2" data-name="Line 326" transform="translate(18.536 54.205)"/>
+            <path id="Line_327" d="M0 12.638L6.951 0" class="cls-2" data-name="Line 327" transform="translate(45.779 4.353)"/>
+            <path id="Line_328" d="M0 0l12.638 6.881" class="cls-2" data-name="Line 328" transform="translate(4.353 18.536)"/>
+            <path id="Line_329" d="M0 0l12.638 6.881" class="cls-2" data-name="Line 329" transform="translate(54.205 45.779)"/>
+            <path id="Line_330" d="M0 0l8.917 11.304" class="cls-2" data-name="Line 330" transform="translate(13.551 7.653)"/>
+            <path id="Line_331" d="M0 0l8.917 11.304" class="cls-2" data-name="Line 331" transform="translate(48.798 52.239)"/>
+            <path id="Line_332" d="M0 8.917L11.234 0" class="cls-2" data-name="Line 332" transform="translate(7.723 48.798)"/>
+            <path id="Line_333" d="M0 8.987L11.304 0" class="cls-2" data-name="Line 333" transform="translate(52.239 13.481)"/>
+            <path id="Line_334" d="M0 14.324L1.615 0" class="cls-2" data-name="Line 334" transform="translate(31.526 56.662)"/>
+            <path id="Line_335" d="M0 14.324L1.685 0" class="cls-2" data-name="Line 335" transform="translate(38.056 .211)"/>
+            <path id="Line_336" d="M0 0l14.253 1.685" class="cls-2" data-name="Line 336" transform="translate(.281 31.456)"/>
+            <path id="Line_337" d="M0 0l14.324 1.685" class="cls-2" data-name="Line 337" transform="translate(56.662 38.056)"/>
+            <path id="Line_338" d="M0 0v14.394" class="cls-2" data-name="Line 338" transform="translate(35.598)"/>
+            <path id="Line_339" d="M0 0v14.394" class="cls-2" data-name="Line 339" transform="translate(35.598 56.803)"/>
+            <path id="Line_340" d="M0 10.181L10.181 0" class="cls-2" data-name="Line 340" transform="translate(10.462 50.624)"/>
+            <path id="Line_341" d="M0 10.251L10.181 0" class="cls-2" data-name="Line 341" transform="translate(50.624 10.392)"/>
+            <path id="Line_342" d="M0 0l10.181 10.251" class="cls-2" data-name="Line 342" transform="translate(10.462 10.392)"/>
+            <path id="Line_343" d="M0 0l10.181 10.181" class="cls-2" data-name="Line 343" transform="translate(50.624 50.624)"/>
+            <path id="Line_344" d="M0 0v14.394" class="cls-2" data-name="Line 344" transform="translate(35.598)"/>
+            <path id="Line_345" d="M0 0v14.394" class="cls-2" data-name="Line 345" transform="translate(35.598 56.803)"/>
+            <path id="Line_346" d="M0 0h14.394" class="cls-2" data-name="Line 346" transform="translate(0 36.019)"/>
+            <path id="Line_347" d="M0 0h14.464" class="cls-2" data-name="Line 347" transform="translate(56.803 36.019)"/>
+            <path id="Line_348" d="M0 10.181L10.181 0" class="cls-2" data-name="Line 348" transform="translate(10.462 50.624)"/>
+            <path id="Line_349" d="M0 10.251L10.181 0" class="cls-2" data-name="Line 349" transform="translate(50.624 10.392)"/>
+            <path id="Line_350" d="M0 0l10.181 10.251" class="cls-2" data-name="Line 350" transform="translate(10.462 10.392)"/>
+            <path id="Line_351" d="M0 0l10.181 10.181" class="cls-2" data-name="Line 351" transform="translate(50.624 50.624)"/>
+            <path id="Line_352" d="M0 0l5.406 13.341" class="cls-2" data-name="Line 352" transform="translate(22.258 2.598)"/>
+            <path id="Line_353" d="M0 0l5.336 13.341" class="cls-2" data-name="Line 353" transform="translate(43.602 55.258)"/>
+            <path id="Line_354" d="M0 5.406L13.341 0" class="cls-2" data-name="Line 354" transform="translate(2.598 43.532)"/>
+            <path id="Line_355" d="M0 5.406L13.411 0" class="cls-2" data-name="Line 355" transform="translate(55.258 22.258)"/>
+            <path id="Line_356" d="M0 13.27L5.617 0" class="cls-2" data-name="Line 356" transform="translate(21.696 55.117)"/>
+            <path id="Line_357" d="M0 13.27L5.687 0" class="cls-2" data-name="Line 357" transform="translate(43.883 2.809)"/>
+            <path id="Line_358" d="M0 0l13.27 5.617" class="cls-2" data-name="Line 358" transform="translate(2.809 21.696)"/>
+            <path id="Line_359" d="M0 0l13.27 5.617" class="cls-2" data-name="Line 359" transform="translate(55.117 43.883)"/>
+            <path id="Line_360" d="M0 0l2.809 14.183" class="cls-2" data-name="Line 360" transform="translate(28.787 .632)"/>
+            <path id="Line_361" d="M0 0l2.738 14.113" class="cls-2" data-name="Line 361" transform="translate(39.671 56.452)"/>
+            <path id="Line_362" d="M0 2.738L14.183 0" class="cls-2" data-name="Line 362" transform="translate(.632 39.671)"/>
+            <path id="Line_363" d="M0 2.738L14.113 0" class="cls-2" data-name="Line 363" transform="translate(56.452 28.787)"/>
+            <path id="Line_364" d="M0 11.936L8.004 0" class="cls-2" data-name="Line 364" transform="translate(15.728 53.222)"/>
+            <path id="Line_365" d="M0 11.936L8.075 0" class="cls-2" data-name="Line 365" transform="translate(47.464 6.109)"/>
+            <path id="Line_366" d="M0 0l11.936 8.004" class="cls-2" data-name="Line 366" transform="translate(6.109 15.728)"/>
+            <path id="Line_367" d="M0 0l11.936 8.075" class="cls-2" data-name="Line 367" transform="translate(53.222 47.464)"/>
+            <path id="Line_368" d="M0 0l2.809 14.183" class="cls-2" data-name="Line 368" transform="translate(28.787 .632)"/>
+            <path id="Line_369" d="M0 0l2.738 14.113" class="cls-2" data-name="Line 369" transform="translate(39.671 56.452)"/>
+            <path id="Line_370" d="M0 2.738L14.183 0" class="cls-2" data-name="Line 370" transform="translate(.632 39.671)"/>
+            <path id="Line_371" d="M0 2.738L14.113 0" class="cls-2" data-name="Line 371" transform="translate(56.452 28.787)"/>
+            <path id="Line_372" d="M0 11.936L8.004 0" class="cls-2" data-name="Line 372" transform="translate(15.728 53.222)"/>
+            <path id="Line_373" d="M0 11.936L8.075 0" class="cls-2" data-name="Line 373" transform="translate(47.464 6.109)"/>
+            <path id="Line_374" d="M0 0l11.936 8.004" class="cls-2" data-name="Line 374" transform="translate(6.109 15.728)"/>
+            <path id="Line_375" d="M0 0l11.936 8.075" class="cls-2" data-name="Line 375" transform="translate(53.222 47.464)"/>
+            <path id="Line_376" d="M0 0l7.864 12.077" class="cls-2" data-name="Line 376" transform="translate(16.219 5.758)"/>
+            <path id="Line_377" d="M0 0l7.864 12.147" class="cls-2" data-name="Line 377" transform="translate(47.183 53.362)"/>
+            <path id="Line_378" d="M0 7.864L12.077 0" class="cls-2" data-name="Line 378" transform="translate(5.757 47.183)"/>
+            <path id="Line_379" d="M0 7.864L12.077 0" class="cls-2" data-name="Line 379" transform="translate(53.432 16.219)"/>
+            <path id="Line_380" d="M0 14.043L3.019 0" class="cls-2" data-name="Line 380" transform="translate(28.226 56.381)"/>
+            <path id="Line_381" d="M0 14.113L3.019 0" class="cls-2" data-name="Line 381" transform="translate(40.022 .772)"/>
+            <path id="Line_382" d="M0 0l14.113 2.949" class="cls-2" data-name="Line 382" transform="translate(.772 28.226)"/>
+            <path id="Line_383" d="M0 0l14.113 3.019" class="cls-2" data-name="Line 383" transform="translate(56.381 40.022)"/>
+            <path id="Line_384" d="M0 0l1.334 14.324" class="cls-2" data-name="Line 384" transform="translate(32.298 .14)"/>
+            <path id="Line_385" d="M0 0l1.404 14.324" class="cls-2" data-name="Line 385" transform="translate(37.564 56.732)"/>
+            <path id="Line_386" d="M0 1.334L14.394 0" class="cls-2" data-name="Line 386" transform="translate(.14 37.564)"/>
+            <path id="Line_387" d="M0 1.334L14.324 0" class="cls-2" data-name="Line 387" transform="translate(56.732 32.298)"/>
+            <path id="Line_388" d="M0 11.094L9.198 0" class="cls-2" data-name="Line 388" transform="translate(12.919 51.958)"/>
+            <path id="Line_389" d="M0 11.094L9.198 0" class="cls-2" data-name="Line 389" transform="translate(49.149 8.215)"/>
+            <path id="Line_390" d="M0 0l11.094 9.198" class="cls-2" data-name="Line 390" transform="translate(8.215 12.849)"/>
+            <path id="Line_391" d="M0 0l11.094 9.198" class="cls-2" data-name="Line 391" transform="translate(51.958 49.149)"/>
+            <path id="Line_392" d="M0 0l1.334 14.324" class="cls-2" data-name="Line 392" transform="translate(32.298 .14)"/>
+            <path id="Line_393" d="M0 0l1.404 14.324" class="cls-2" data-name="Line 393" transform="translate(37.564 56.732)"/>
+            <path id="Line_394" d="M0 1.334L14.394 0" class="cls-2" data-name="Line 394" transform="translate(.14 37.564)"/>
+            <path id="Line_395" d="M0 1.334L14.324 0" class="cls-2" data-name="Line 395" transform="translate(56.732 32.298)"/>
+            <path id="Line_396" d="M0 11.094L9.198 0" class="cls-2" data-name="Line 396" transform="translate(12.919 51.958)"/>
+            <path id="Line_397" d="M0 11.094L9.198 0" class="cls-2" data-name="Line 397" transform="translate(49.149 8.215)"/>
+            <path id="Line_398" d="M0 0l11.094 9.198" class="cls-2" data-name="Line 398" transform="translate(8.215 12.849)"/>
+            <path id="Line_399" d="M0 0l11.094 9.198" class="cls-2" data-name="Line 399" transform="translate(51.958 49.149)"/>
+            <path id="Line_400" d="M0 0l6.67 12.779" class="cls-2" data-name="Line 400" transform="translate(19.238 4.002)"/>
+            <path id="Line_401" d="M0 0l6.6 12.779" class="cls-2" data-name="Line 401" transform="translate(45.358 54.486)"/>
+            <path id="Line_402" d="M0 6.6L12.779 0" class="cls-2" data-name="Line 402" transform="translate(4.002 45.358)"/>
+            <path id="Line_403" d="M0 6.6L12.779 0" class="cls-2" data-name="Line 403" transform="translate(54.486 19.238)"/>
+            <path id="Line_404" d="M0 13.762L4.423 0" class="cls-2" data-name="Line 404" transform="translate(24.785 55.82)"/>
+            <path id="Line_405" d="M0 13.692L4.353 0" class="cls-2" data-name="Line 405" transform="translate(42.058 1.685)"/>
+            <path id="Line_406" d="M0 0l13.692 4.423" class="cls-2" data-name="Line 406" transform="translate(1.685 24.785)"/>
+            <path id="Line_407" d="M0 0l13.762 4.353" class="cls-2" data-name="Line 407" transform="translate(55.82 42.058)"/>
+            <path id="Line_408" d="M0 0l4.002 13.832" class="cls-2" data-name="Line 408" transform="translate(25.628 1.404)"/>
+            <path id="Line_409" d="M0 0l4.072 13.832" class="cls-2" data-name="Line 409" transform="translate(41.566 55.96)"/>
+            <path id="Line_410" d="M0 4.072L13.762 0" class="cls-2" data-name="Line 410" transform="translate(1.474 41.566)"/>
+            <path id="Line_411" d="M0 4.072L13.832 0" class="cls-2" data-name="Line 411" transform="translate(55.96 25.558)"/>
+            <path id="Line_412" d="M0 12.638L6.951 0" class="cls-2" data-name="Line 412" transform="translate(18.536 54.205)"/>
+            <path id="Line_413" d="M0 12.638L6.951 0" class="cls-2" data-name="Line 413" transform="translate(45.779 4.353)"/>
+            <path id="Line_414" d="M0 0l12.638 6.881" class="cls-2" data-name="Line 414" transform="translate(4.353 18.536)"/>
+            <path id="Line_415" d="M0 0l12.638 6.881" class="cls-2" data-name="Line 415" transform="translate(54.205 45.779)"/>
+            <path id="Line_416" d="M0 0l4.002 13.832" class="cls-2" data-name="Line 416" transform="translate(25.628 1.404)"/>
+            <path id="Line_417" d="M0 0l4.072 13.832" class="cls-2" data-name="Line 417" transform="translate(41.566 55.96)"/>
+            <path id="Line_418" d="M0 4.072L13.762 0" class="cls-2" data-name="Line 418" transform="translate(1.474 41.566)"/>
+            <path id="Line_419" d="M0 4.072L13.832 0" class="cls-2" data-name="Line 419" transform="translate(55.96 25.558)"/>
+            <path id="Line_420" d="M0 12.638L6.951 0" class="cls-2" data-name="Line 420" transform="translate(18.536 54.205)"/>
+            <path id="Line_421" d="M0 12.638L6.951 0" class="cls-2" data-name="Line 421" transform="translate(45.779 4.353)"/>
+            <path id="Line_422" d="M0 0l12.638 6.881" class="cls-2" data-name="Line 422" transform="translate(4.353 18.536)"/>
+            <path id="Line_423" d="M0 0l12.638 6.881" class="cls-2" data-name="Line 423" transform="translate(54.205 45.779)"/>
+            <path id="Line_424" d="M0 0l8.917 11.304" class="cls-2" data-name="Line 424" transform="translate(13.551 7.653)"/>
+            <path id="Line_425" d="M0 0l8.917 11.304" class="cls-2" data-name="Line 425" transform="translate(48.798 52.239)"/>
+            <path id="Line_426" d="M0 8.917L11.234 0" class="cls-2" data-name="Line 426" transform="translate(7.723 48.798)"/>
+            <path id="Line_427" d="M0 8.987L11.304 0" class="cls-2" data-name="Line 427" transform="translate(52.239 13.481)"/>
+            <path id="Line_428" d="M0 14.324L1.615 0" class="cls-2" data-name="Line 428" transform="translate(31.526 56.662)"/>
+            <path id="Line_429" d="M0 14.324L1.685 0" class="cls-2" data-name="Line 429" transform="translate(38.056 .211)"/>
+            <path id="Line_430" d="M0 0l14.253 1.685" class="cls-2" data-name="Line 430" transform="translate(.281 31.456)"/>
+            <path id="Line_431" d="M0 0l14.324 1.685" class="cls-2" data-name="Line 431" transform="translate(56.662 38.056)"/>
+        </g>
+        <g id="Group_42" data-name="Group 42" transform="translate(1377.117 1432)">
+            <g id="Group_41" data-name="Group 41">
+                <path id="Line_432" d="M.772 0L0 .772" class="cls-3" data-name="Line 432" transform="translate(170.057)"/>
+                <path id="Line_433" d="M167.108 0L0 171.18" class="cls-4" data-name="Line 433" transform="translate(1.474 2.247)"/>
+                <path id="Line_434" d="M.772 0L0 .702" class="cls-3" data-name="Line 434" transform="translate(0 174.199)"/>
+            </g>
+        </g>
+        <g id="Group_43" data-name="Group 43" transform="translate(1479.137 1489.364)">
+            <circle id="Ellipse_48" cx="6.53" cy="6.53" r="6.53" class="cls-5" data-name="Ellipse 48"/>
+        </g>
+        <g id="Group_44" data-name="Group 44" transform="translate(1425.845 1562.807)">
+            <circle id="Ellipse_49" cx="59.19" cy="59.19" r="59.19" class="cls-6" data-name="Ellipse 49"/>
+        </g>
+        <g id="Group_45" data-name="Group 45" transform="translate(1412.926 1547.922)">
+            <circle id="Ellipse_50" cx="72.109" cy="72.109" r="72.109" class="cls-7" data-name="Ellipse 50"/>
+        </g>
+        <circle id="Ellipse_51" cx="62.701" cy="62.701" r="62.701" class="cls-6" data-name="Ellipse 51" transform="translate(1422.194 1432.281)"/>
+        <g id="Group_46" data-name="Group 46" transform="translate(1499.664 1513.783)">
+            <circle id="Ellipse_52" cx="34.124" cy="34.124" r="34.124" class="cls-8" data-name="Ellipse 52" transform="rotate(-45 58.253 24.129)"/>
+        </g>
+        <g id="Group_55" data-name="Group 55" transform="translate(1355 1497.228)">
+            <g id="Group_48" data-name="Group 48">
+                <circle id="Ellipse_53" cx="61.928" cy="61.928" r="61.928" class="cls-9" data-name="Ellipse 53" transform="translate(4.002 4.002)"/>
+                <path id="Line_435" d="M0 4.002V0" class="cls-9" data-name="Line 435" transform="translate(65.93)"/>
+                <path id="Line_436" d="M0 3.932V0" class="cls-10" data-name="Line 436" transform="translate(65.93 127.859)"/>
+                <path id="Line_437" d="M4.002 0H0" class="cls-10" data-name="Line 437" transform="translate(0 65.93)"/>
+                <path id="Line_438" d="M3.932 0H0" class="cls-10" data-name="Line 438" transform="translate(127.858 65.93)"/>
+                <path id="Line_439" d="M2.809 0L0 2.879" class="cls-10" data-name="Line 439" transform="translate(19.309 109.673)"/>
+                <path id="Line_440" d="M2.879 0L0 2.809" class="cls-10" data-name="Line 440" transform="translate(109.673 19.309)"/>
+                <path id="Line_441" d="M2.809 2.809L0 0" class="cls-10" data-name="Line 441" transform="translate(19.309 19.309)"/>
+                <path id="Line_442" d="M2.879 2.879L0 0" class="cls-10" data-name="Line 442" transform="translate(109.673 109.673)"/>
+                <g id="Group_47" data-name="Group 47" transform="translate(4.845 4.845)">
+                    <path id="Line_443" d="M1.474 3.651L0 0" class="cls-10" data-name="Line 443" transform="translate(36.371)"/>
+                    <path id="Line_444" d="M1.545 3.721L0 0" class="cls-10" data-name="Line 444" transform="translate(84.256 118.45)"/>
+                    <path id="Line_445" d="M3.651 0L0 1.545" class="cls-10" data-name="Line 445" transform="translate(0 84.256)"/>
+                    <path id="Line_446" d="M3.721 0L0 1.474" class="cls-10" data-name="Line 446" transform="translate(118.45 36.371)"/>
+                    <path id="Line_447" d="M1.545 0L0 3.651" class="cls-10" data-name="Line 447" transform="translate(35.317 118.099)"/>
+                    <path id="Line_448" d="M1.545 0L0 3.651" class="cls-10" data-name="Line 448" transform="translate(85.239 .421)"/>
+                    <path id="Line_449" d="M3.651 1.545L0 0" class="cls-10" data-name="Line 449" transform="translate(.421 35.317)"/>
+                    <path id="Line_450" d="M3.651 1.545L0 0" class="cls-10" data-name="Line 450" transform="translate(118.099 85.239)"/>
+                </g>
+            </g>
+            <g id="Group_50" data-name="Group 50" transform="translate(1.264 1.264)">
+                <circle id="Ellipse_54" cx="61.928" cy="61.928" r="61.928" class="cls-9" data-name="Ellipse 54" transform="translate(2.738 2.738)"/>
+                <path id="Line_451" d="M.772 3.932L0 0" class="cls-10" data-name="Line 451" transform="translate(51.817)"/>
+                <path id="Line_452" d="M.843 3.862L0 0" class="cls-10" data-name="Line 452" transform="translate(76.673 125.401)"/>
+                <path id="Line_453" d="M3.932 0L0 .843" class="cls-10" data-name="Line 453" transform="translate(0 76.673)"/>
+                <path id="Line_454" d="M3.932 0L0 .772" class="cls-10" data-name="Line 454" transform="translate(125.401 51.817)"/>
+                <path id="Line_455" d="M2.247 0L0 3.3" class="cls-10" data-name="Line 455" transform="translate(28.015 116.133)"/>
+                <path id="Line_456" d="M2.247 0L0 3.3" class="cls-10" data-name="Line 456" transform="translate(99.071 9.9)"/>
+                <path id="Line_457" d="M3.3 2.247L0 0" class="cls-10" data-name="Line 457" transform="translate(9.9 28.015)"/>
+                <path id="Line_458" d="M3.3 2.247L0 0" class="cls-10" data-name="Line 458" transform="translate(116.133 99.071)"/>
+                <g id="Group_49" data-name="Group 49" transform="translate(.14 .14)">
+                    <path id="Line_459" d="M2.177 3.3L0 0" class="cls-10" data-name="Line 459" transform="translate(28.366 9.409)"/>
+                    <path id="Line_460" d="M2.177 3.37L0 0" class="cls-10" data-name="Line 460" transform="translate(98.439 116.273)"/>
+                    <path id="Line_461" d="M3.3 0L0 2.177" class="cls-10" data-name="Line 461" transform="translate(9.409 98.439)"/>
+                    <path id="Line_462" d="M3.37 0L0 2.177" class="cls-10" data-name="Line 462" transform="translate(116.273 28.366)"/>
+                    <path id="Line_463" d="M.772 0L0 3.932" class="cls-10" data-name="Line 463" transform="translate(51.115 125.12)"/>
+                    <path id="Line_464" d="M.772 0L0 3.862" class="cls-10" data-name="Line 464" transform="translate(77.164)"/>
+                    <path id="Line_465" d="M3.932.772L0 0" class="cls-10" data-name="Line 465" transform="translate(0 51.115)"/>
+                    <path id="Line_466" d="M3.932.772L0 0" class="cls-10" data-name="Line 466" transform="translate(125.12 77.164)"/>
+                </g>
+            </g>
+            <g id="Group_52" data-name="Group 52" transform="translate(.281 .281)">
+                <circle id="Ellipse_55" cx="61.928" cy="61.928" r="61.928" class="cls-9" data-name="Ellipse 55" transform="translate(3.721 3.721)"/>
+                <path id="Line_467" d="M.351 4.002L0 0" class="cls-10" data-name="Line 467" transform="translate(59.471)"/>
+                <path id="Line_468" d="M.421 3.932L0 0" class="cls-10" data-name="Line 468" transform="translate(71.407 127.297)"/>
+                <path id="Line_469" d="M4.002 0L0 .421" class="cls-10" data-name="Line 469" transform="translate(0 71.407)"/>
+                <path id="Line_470" d="M3.932 0L0 .351" class="cls-10" data-name="Line 470" transform="translate(127.297 59.471)"/>
+                <path id="Line_471" d="M2.528 0L0 3.089" class="cls-10" data-name="Line 471" transform="translate(23.592 113.324)"/>
+                <path id="Line_472" d="M2.598 0L0 3.089" class="cls-10" data-name="Line 472" transform="translate(105.109 14.885)"/>
+                <path id="Line_473" d="M3.089 2.528L0 0" class="cls-10" data-name="Line 473" transform="translate(14.885 23.592)"/>
+                <path id="Line_474" d="M3.089 2.598L0 0" class="cls-10" data-name="Line 474" transform="translate(113.324 105.109)"/>
+                <g id="Group_51" data-name="Group 51" transform="translate(2.809 2.809)">
+                    <path id="Line_475" d="M1.826 3.581L0 0" class="cls-10" data-name="Line 475" transform="translate(32.509 4.283)"/>
+                    <path id="Line_476" d="M1.826 3.511L0 0" class="cls-10" data-name="Line 476" transform="translate(91.277 117.818)"/>
+                    <path id="Line_477" d="M3.581 0L0 1.826" class="cls-10" data-name="Line 477" transform="translate(4.283 91.277)"/>
+                    <path id="Line_478" d="M3.511 0L0 1.826" class="cls-10" data-name="Line 478" transform="translate(117.818 32.509)"/>
+                    <path id="Line_479" d="M1.194 0L0 3.792" class="cls-10" data-name="Line 479" transform="translate(42.9 121.82)"/>
+                    <path id="Line_480" d="M1.194 0L0 3.792" class="cls-10" data-name="Line 480" transform="translate(81.588)"/>
+                    <path id="Line_481" d="M3.792 1.194L0 0" class="cls-10" data-name="Line 481" transform="translate(0 42.9)"/>
+                    <path id="Line_482" d="M3.792 1.194L0 0" class="cls-10" data-name="Line 482" transform="translate(121.82 81.588)"/>
+                </g>
+            </g>
+            <g id="Group_54" data-name="Group 54" transform="translate(.421 .421)">
+                <circle id="Ellipse_56" cx="61.928" cy="61.928" r="61.928" class="cls-10" data-name="Ellipse 56" transform="translate(3.581 3.581)"/>
+                <path id="Line_483" d="M1.123 3.862L0 0" class="cls-10" data-name="Line 483" transform="translate(46.692 2.317)"/>
+                <path id="Line_484" d="M1.123 3.792L0 0" class="cls-10" data-name="Line 484" transform="translate(83.203 124.839)"/>
+                <path id="Line_485" d="M3.862 0L0 1.123" class="cls-10" data-name="Line 485" transform="translate(2.317 83.203)"/>
+                <path id="Line_486" d="M3.792 0L0 1.123" class="cls-10" data-name="Line 486" transform="translate(124.839 46.692)"/>
+                <path id="Line_487" d="M1.896 0L0 3.511" class="cls-10" data-name="Line 487" transform="translate(34.124 119.924)"/>
+                <path id="Line_488" d="M1.896 0L0 3.511" class="cls-10" data-name="Line 488" transform="translate(94.928 7.513)"/>
+                <path id="Line_489" d="M3.511 1.896L0 0" class="cls-10" data-name="Line 489" transform="translate(7.513 34.124)"/>
+                <path id="Line_490" d="M3.511 1.896L0 0" class="cls-10" data-name="Line 490" transform="translate(119.924 94.928)"/>
+                <g id="Group_53" data-name="Group 53">
+                    <path id="Line_491" d="M2.528 3.16L0 0" class="cls-10" data-name="Line 491" transform="translate(24.364 13.972)"/>
+                    <path id="Line_492" d="M2.457 3.089L0 0" class="cls-10" data-name="Line 492" transform="translate(104.126 113.886)"/>
+                    <path id="Line_493" d="M3.16 0L0 2.457" class="cls-10" data-name="Line 493" transform="translate(13.972 104.126)"/>
+                    <path id="Line_494" d="M3.089 0L0 2.528" class="cls-10" data-name="Line 494" transform="translate(113.886 24.364)"/>
+                    <path id="Line_495" d="M.491 0L0 4.002" class="cls-10" data-name="Line 495" transform="translate(58.137 127.016)"/>
+                    <path id="Line_496" d="M.421 0L0 3.932" class="cls-10" data-name="Line 496" transform="translate(72.39)"/>
+                    <path id="Line_497" d="M3.932.491L0 0" class="cls-10" data-name="Line 497" transform="translate(0 58.137)"/>
+                    <path id="Line_498" d="M4.002.421L0 0" class="cls-10" data-name="Line 498" transform="translate(127.016 72.39)"/>
+                </g>
+            </g>
+        </g>
+        <g id="Group_64" data-name="Group 64" transform="translate(1482.929 1497.298)">
+            <g id="Group_57" data-name="Group 57">
+                <circle id="Ellipse_57" cx="61.928" cy="61.928" r="61.928" class="cls-11" data-name="Ellipse 57" transform="translate(3.932 3.932)"/>
+                <path id="Line_499" d="M0 4.002L.14 0" class="cls-11" data-name="Line 499" transform="translate(68.879)"/>
+                <path id="Line_500" d="M0 3.932L.14 0" class="cls-11" data-name="Line 500" transform="translate(62.63 127.718)"/>
+                <path id="Line_501" d="M4.002.211L0 0" class="cls-11" data-name="Line 501" transform="translate(0 62.63)"/>
+                <path id="Line_502" d="M4.002.211L0 0" class="cls-11" data-name="Line 502" transform="translate(127.648 68.879)"/>
+                <path id="Line_503" d="M2.949 0L0 2.668" class="cls-11" data-name="Line 503" transform="translate(16.992 107.426)"/>
+                <path id="Line_504" d="M2.949 0L0 2.668" class="cls-11" data-name="Line 504" transform="translate(111.709 21.556)"/>
+                <path id="Line_505" d="M2.668 3.019L0 0" class="cls-11" data-name="Line 505" transform="translate(21.555 16.992)"/>
+                <path id="Line_506" d="M2.668 2.949L0 0" class="cls-11" data-name="Line 506" transform="translate(107.426 111.709)"/>
+                <g id="Group_56" data-name="Group 56" transform="translate(3.581 3.651)">
+                    <path id="Line_507" d="M1.264 3.721L0 0" class="cls-11" data-name="Line 507" transform="translate(40.583)"/>
+                    <path id="Line_508" d="M1.264 3.721L0 0" class="cls-11" data-name="Line 508" transform="translate(82.641 120.697)"/>
+                    <path id="Line_509" d="M3.792 0L0 1.334" class="cls-11" data-name="Line 509" transform="translate(0 82.571)"/>
+                    <path id="Line_510" d="M3.792 0L0 1.334" class="cls-11" data-name="Line 510" transform="translate(120.697 40.513)"/>
+                    <path id="Line_511" d="M1.755 0L0 3.581" class="cls-11" data-name="Line 511" transform="translate(33.562 117.958)"/>
+                    <path id="Line_512" d="M1.755 0L0 3.581" class="cls-11" data-name="Line 512" transform="translate(89.171 2.879)"/>
+                    <path id="Line_513" d="M3.581 1.685L0 0" class="cls-11" data-name="Line 513" transform="translate(2.879 33.562)"/>
+                    <path id="Line_514" d="M3.581 1.755L0 0" class="cls-11" data-name="Line 514" transform="translate(118.029 89.101)"/>
+                </g>
+            </g>
+            <g id="Group_59" data-name="Group 59" transform="translate(.632 .632)">
+                <circle id="Ellipse_58" cx="61.928" cy="61.928" r="61.928" class="cls-11" data-name="Ellipse 58" transform="translate(3.3 3.3)"/>
+                <path id="Line_515" d="M.562 3.932L0 0" class="cls-11" data-name="Line 515" transform="translate(55.539)"/>
+                <path id="Line_516" d="M.562 3.932L0 0" class="cls-11" data-name="Line 516" transform="translate(74.286 126.454)"/>
+                <path id="Line_517" d="M3.932 0L0 .562" class="cls-11" data-name="Line 517" transform="translate(0 74.286)"/>
+                <path id="Line_518" d="M3.932 0L0 .632" class="cls-11" data-name="Line 518" transform="translate(126.454 55.539)"/>
+                <path id="Line_519" d="M2.387 0L0 3.23" class="cls-11" data-name="Line 519" transform="translate(25.909 114.939)"/>
+                <path id="Line_520" d="M2.387 0L0 3.23" class="cls-11" data-name="Line 520" transform="translate(102.09 12.287)"/>
+                <path id="Line_521" d="M3.16 2.317L0 0" class="cls-11" data-name="Line 521" transform="translate(12.287 25.979)"/>
+                <path id="Line_522" d="M3.16 2.387L0 0" class="cls-11" data-name="Line 522" transform="translate(114.939 102.09)"/>
+                <g id="Group_58" data-name="Group 58" transform="translate(1.404 1.404)">
+                    <path id="Line_523" d="M2.036 3.44L0 0" class="cls-11" data-name="Line 523" transform="translate(30.402 7.021)"/>
+                    <path id="Line_524" d="M2.036 3.44L0 0" class="cls-11" data-name="Line 524" transform="translate(95.139 117.186)"/>
+                    <path id="Line_525" d="M3.44 0L0 1.966" class="cls-11" data-name="Line 525" transform="translate(6.951 95.209)"/>
+                    <path id="Line_526" d="M3.44 0L0 2.036" class="cls-11" data-name="Line 526" transform="translate(117.186 30.402)"/>
+                    <path id="Line_527" d="M.983 0L0 3.862" class="cls-11" data-name="Line 527" transform="translate(47.254 123.716)"/>
+                    <path id="Line_528" d="M1.053 0L0 3.862" class="cls-11" data-name="Line 528" transform="translate(79.341)"/>
+                    <path id="Line_529" d="M3.862.983L0 0" class="cls-11" data-name="Line 529" transform="translate(0 47.254)"/>
+                    <path id="Line_530" d="M3.862.983L0 0" class="cls-11" data-name="Line 530" transform="translate(123.716 79.411)"/>
+                </g>
+            </g>
+            <g id="Group_61" data-name="Group 61">
+                <circle id="Ellipse_59" cx="61.928" cy="61.928" r="61.928" class="cls-11" data-name="Ellipse 59" transform="translate(3.932 3.932)"/>
+                <path id="Line_531" d="M.14 4.002L0 0" class="cls-11" data-name="Line 531" transform="translate(62.911)"/>
+                <path id="Line_532" d="M.14 3.932L0 0" class="cls-11" data-name="Line 532" transform="translate(68.598 127.718)"/>
+                <path id="Line_533" d="M4.002 0L0 .211" class="cls-11" data-name="Line 533" transform="translate(0 68.598)"/>
+                <path id="Line_534" d="M3.932 0L0 .14" class="cls-11" data-name="Line 534" transform="translate(127.718 62.911)"/>
+                <path id="Line_535" d="M2.668 0L0 2.949" class="cls-11" data-name="Line 535" transform="translate(21.345 111.569)"/>
+                <path id="Line_536" d="M2.668 0L0 2.949" class="cls-11" data-name="Line 536" transform="translate(107.637 17.202)"/>
+                <path id="Line_537" d="M2.949 2.738L0 0" class="cls-11" data-name="Line 537" transform="translate(17.202 21.345)"/>
+                <path id="Line_538" d="M2.949 2.668L0 0" class="cls-11" data-name="Line 538" transform="translate(111.499 107.637)"/>
+                <g id="Group_60" data-name="Group 60" transform="translate(4.072 4.072)">
+                    <path id="Line_539" d="M1.685 3.651L0 0" class="cls-11" data-name="Line 539" transform="translate(34.334 1.826)"/>
+                    <path id="Line_540" d="M1.685 3.581L0 0" class="cls-11" data-name="Line 540" transform="translate(87.486 118.099)"/>
+                    <path id="Line_541" d="M3.651 0L0 1.615" class="cls-11" data-name="Line 541" transform="translate(1.826 87.556)"/>
+                    <path id="Line_542" d="M3.581 0L0 1.685" class="cls-11" data-name="Line 542" transform="translate(118.099 34.334)"/>
+                    <path id="Line_543" d="M1.404 0L0 3.721" class="cls-11" data-name="Line 543" transform="translate(38.758 119.784)"/>
+                    <path id="Line_544" d="M1.404 0L0 3.721" class="cls-11" data-name="Line 544" transform="translate(83.343)"/>
+                    <path id="Line_545" d="M3.721 1.404L0 0" class="cls-11" data-name="Line 545" transform="translate(0 38.758)"/>
+                    <path id="Line_546" d="M3.721 1.334L0 0" class="cls-11" data-name="Line 546" transform="translate(119.784 83.413)"/>
+                </g>
+            </g>
+            <g id="Group_63" data-name="Group 63" transform="translate(.772 .772)">
+                <circle id="Ellipse_60" cx="61.928" cy="61.928" r="61.928" class="cls-11" data-name="Ellipse 60" transform="translate(3.16 3.16)"/>
+                <path id="Line_547" d="M.913 3.862L0 0" class="cls-11" data-name="Line 547" transform="translate(49.36 1.053)"/>
+                <path id="Line_548" d="M.913 3.862L0 0" class="cls-11" data-name="Line 548" transform="translate(79.833 125.19)"/>
+                <path id="Line_549" d="M3.862 0L0 .913" class="cls-11" data-name="Line 549" transform="translate(1.053 79.833)"/>
+                <path id="Line_550" d="M3.862 0L0 .983" class="cls-11" data-name="Line 550" transform="translate(125.19 49.36)"/>
+                <path id="Line_551" d="M2.106 0L0 3.44" class="cls-11" data-name="Line 551" transform="translate(30.894 118.029)"/>
+                <path id="Line_552" d="M2.036 0L0 3.44" class="cls-11" data-name="Line 552" transform="translate(97.175 8.706)"/>
+                <path id="Line_553" d="M3.37 2.106L0 0" class="cls-11" data-name="Line 553" transform="translate(8.706 30.894)"/>
+                <path id="Line_554" d="M3.37 2.036L0 0" class="cls-11" data-name="Line 554" transform="translate(118.029 97.175)"/>
+                <g id="Group_62" data-name="Group 62">
+                    <path id="Line_555" d="M2.317 3.23L0 0" class="cls-11" data-name="Line 555" transform="translate(26.541 11.655)"/>
+                    <path id="Line_556" d="M2.387 3.23L0 0" class="cls-11" data-name="Line 556" transform="translate(101.248 115.29)"/>
+                    <path id="Line_557" d="M3.23 0L0 2.317" class="cls-11" data-name="Line 557" transform="translate(11.585 101.318)"/>
+                    <path id="Line_558" d="M3.23 0L0 2.317" class="cls-11" data-name="Line 558" transform="translate(115.29 26.541)"/>
+                    <path id="Line_559" d="M.702 0L0 3.932" class="cls-11" data-name="Line 559" transform="translate(54.486 126.173)"/>
+                    <path id="Line_560" d="M.632 0L0 3.932" class="cls-11" data-name="Line 560" transform="translate(74.988)"/>
+                    <path id="Line_561" d="M3.932.632L0 0" class="cls-11" data-name="Line 561" transform="translate(0 54.556)"/>
+                    <path id="Line_562" d="M3.932.632L0 0" class="cls-11" data-name="Line 562" transform="translate(126.173 74.988)"/>
+                </g>
+            </g>
+        </g>
+        <path id="Path_84" d="M121.82 127.3L0 0" class="cls-12" data-name="Path 84" transform="translate(1470.15 1480.237)"/>
+        <path id="Line_564" d="M0 241.113V0" class="cls-1" data-name="Line 564" transform="translate(1421.703 1450.887)"/>
+        <path id="Line_565" d="M0 241.534V0" class="cls-1" data-name="Line 565" transform="translate(1547.946 1432)"/>
+        <g id="Group_65" data-name="Group 65" transform="translate(1419.947 1449.132)">
+            <circle id="Ellipse_61" cx="1.755" cy="1.755" r="1.755" class="cls-13" data-name="Ellipse 61"/>
+            <circle id="Ellipse_62" cx="1.053" cy="1.053" r="1.053" class="cls-13" data-name="Ellipse 62" transform="translate(.702 9.689)"/>
+        </g>
+        <g id="Group_66" data-name="Group 66" transform="translate(1546.191 1663.564)">
+            <circle id="Ellipse_63" cx="1.755" cy="1.755" r="1.755" class="cls-13" data-name="Ellipse 63" transform="translate(0 8.215)"/>
+            <circle id="Ellipse_64" cx="1.053" cy="1.053" r="1.053" class="cls-13" data-name="Ellipse 64" transform="translate(.702)"/>
+        </g>
+        <path id="Line_566" d="M0 0l125.963 129.895" class="cls-14" data-name="Line 566" transform="translate(1421.632 1562.105)"/>
+        <circle id="Ellipse_65" cx="17.062" cy="17.062" r="17.062" class="cls-15" data-name="Ellipse 65" transform="translate(1468.324 1432.141)"/>
+        <path id="Path_83" d="M0 260L260 0" class="cls-12" data-name="Path 83" transform="translate(1355 1432)"/>
+        <path id="Line_568" d="M0 0l260 260" class="cls-15" data-name="Line 568" transform="translate(1355 1432)"/>
+        <path id="Line_569" d="M126.735 0L0 130.597" class="cls-14" data-name="Line 569" transform="translate(1421.703 1561.403)"/>
+        <g id="Group_67" data-name="Group 67" transform="translate(1542.399 1556.348)">
+            <circle id="Ellipse_66" cx="5.968" cy="5.968" r="5.968" class="cls-16" data-name="Ellipse 66"/>
+        </g>
+        <g id="Group_68" data-name="Group 68" transform="translate(1415.173 1555.505)">
+            <circle id="Ellipse_67" cx="6.53" cy="6.53" r="6.53" class="cls-10" data-name="Ellipse 67"/>
+            <circle id="Ellipse_68" cx="3.44" cy="3.44" r="3.44" class="cls-17" data-name="Ellipse 68" transform="translate(3.089 3.089)"/>
+        </g>
+        <g id="Group_69" data-name="Group 69" transform="translate(1464.884 1474.971)">
+            <circle id="Ellipse_69" cx="5.196" cy="5.196" r="5.196" class="cls-10" data-name="Ellipse 69"/>
+            <circle id="Ellipse_70" cx="1.053" cy="1.053" r="1.053" class="cls-13" data-name="Ellipse 70" transform="translate(4.143 4.002)"/>
+        </g>
+        <path id="Path_85" d="M0 0h260v260H0z" class="cls-18" data-name="Path 85" transform="translate(1355 1432)"/>
+    </g>
+</svg>

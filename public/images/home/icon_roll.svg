@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 62 62">
+    <defs>
+        <style>
+            .cls-1{fill:#c01517}.cls-2{fill:#3a5695}
+        </style>
+    </defs>
+    <g id="icon_roll" transform="translate(-14 -1680)">
+        <g id="Group_428" data-name="Group 428" transform="translate(14 1680)">
+            <path id="Path_452" d="M23 62a8.963 8.963 0 0 1-9-9V9c0-3.2-1.5-7-5.8-7V0H41a8.963 8.963 0 0 1 9 9v36a1 1 0 1 1-2 0V9a6.957 6.957 0 0 0-7-7H13.4A9.675 9.675 0 0 1 16 9v44a6.957 6.957 0 0 0 7 7 1 1 0 1 1 0 2z" class="cls-1" data-name="Path 452"/>
+            <path id="Path_453" d="M53 62H23v-2a7 7 0 0 0 0-14v-2h30a9 9 0 0 1 0 18zm-24.3-2H53a7 7 0 0 0 0-14H28.7a9.074 9.074 0 0 1 0 14zM15 10H0V9c0-5.2 3.4-9 8.2-9a.945.945 0 0 1 1 1 .945.945 0 0 1-1 1C4.9 2 2.4 4.4 2.1 8H15a.945.945 0 0 1 1 1 .945.945 0 0 1-1 1z" class="cls-2" data-name="Path 453"/>
+            <path id="Path_454" d="M39 34H25a1 1 0 0 1 0-2h14a1 1 0 0 1 0 2zm0-10H25a1 1 0 0 1 0-2h14a1 1 0 0 1 0 2zm0-10H25a1 1 0 0 1 0-2h14a1 1 0 0 1 0 2z" class="cls-2" data-name="Path 454"/>
+        </g>
+    </g>
+</svg>

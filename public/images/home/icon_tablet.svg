@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 62">
+    <defs>
+        <style>
+            .cls-1{fill:#3a5695}.cls-2{fill:#c01517}
+        </style>
+    </defs>
+    <g id="icon_tablet" transform="translate(-17 -1225)">
+        <g id="Group_423" data-name="Group 423" transform="translate(17 1225)">
+            <path id="Path_441" d="M47 62H3a2.878 2.878 0 0 1-2.1-.9A2.878 2.878 0 0 1 0 59V3A2.878 2.878 0 0 1 .9.9 2.878 2.878 0 0 1 3 0h44a2.878 2.878 0 0 1 2.1.9A2.878 2.878 0 0 1 50 3v56a3.076 3.076 0 0 1-3 3zM3 2a.908.908 0 0 0-.7.3.908.908 0 0 0-.3.7v56a.908.908 0 0 0 .3.7.908.908 0 0 0 .7.3h44a1.025 1.025 0 0 0 1-1V3a.908.908 0 0 0-.3-.7.908.908 0 0 0-.7-.3z" class="cls-1" data-name="Path 441"/>
+            <path id="Path_442" d="M44 46H6V8h38zM8 44h34V10H8z" class="cls-1" data-name="Path 442"/>
+            <path id="Path_443" d="M39 54h-2a1 1 0 1 1 0-2h2a1 1 0 1 1 0 2zm-26 0h-2a1 1 0 1 1 0-2h2a1 1 0 1 1 0 2z" class="cls-1" data-name="Path 443"/>
+            <path id="Path_444" d="M29 36H15a1 1 0 1 1 0-2h14a1 1 0 0 1 0 2zm6-8H15a1 1 0 1 1 0-2h20a1 1 0 0 1 0 2zm0-8H15a1 1 0 0 1 0-2h20a1 1 0 0 1 0 2z" class="cls-2" data-name="Path 444"/>
+            <path id="Path_445" d="M29 54h-8a1 1 0 1 1 0-2h8a1 1 0 0 1 0 2z" class="cls-2" data-name="Path 445"/>
+        </g>
+    </g>
+</svg>
